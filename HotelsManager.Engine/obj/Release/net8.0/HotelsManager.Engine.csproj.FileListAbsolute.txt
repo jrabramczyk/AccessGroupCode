@@ -1,0 +1,12 @@
+C:\Users\Jacek\source\repos\AccessGroupCodeChallenge\HotelsManager.Engine\bin\Release\net8.0\HotelsManager.Engine.deps.json
+C:\Users\Jacek\source\repos\AccessGroupCodeChallenge\HotelsManager.Engine\bin\Release\net8.0\HotelsManager.Engine.dll
+C:\Users\Jacek\source\repos\AccessGroupCodeChallenge\HotelsManager.Engine\bin\Release\net8.0\HotelsManager.Engine.pdb
+C:\Users\Jacek\source\repos\AccessGroupCodeChallenge\HotelsManager.Engine\obj\Release\net8.0\HotelsManager.Engine.csproj.AssemblyReference.cache
+C:\Users\Jacek\source\repos\AccessGroupCodeChallenge\HotelsManager.Engine\obj\Release\net8.0\HotelsManager.Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacek\source\repos\AccessGroupCodeChallenge\HotelsManager.Engine\obj\Release\net8.0\HotelsManager.Engine.AssemblyInfoInputs.cache
+C:\Users\Jacek\source\repos\AccessGroupCodeChallenge\HotelsManager.Engine\obj\Release\net8.0\HotelsManager.Engine.AssemblyInfo.cs
+C:\Users\Jacek\source\repos\AccessGroupCodeChallenge\HotelsManager.Engine\obj\Release\net8.0\HotelsManager.Engine.csproj.CoreCompileInputs.cache
+C:\Users\Jacek\source\repos\AccessGroupCodeChallenge\HotelsManager.Engine\obj\Release\net8.0\HotelsManager.Engine.dll
+C:\Users\Jacek\source\repos\AccessGroupCodeChallenge\HotelsManager.Engine\obj\Release\net8.0\refint\HotelsManager.Engine.dll
+C:\Users\Jacek\source\repos\AccessGroupCodeChallenge\HotelsManager.Engine\obj\Release\net8.0\HotelsManager.Engine.pdb
+C:\Users\Jacek\source\repos\AccessGroupCodeChallenge\HotelsManager.Engine\obj\Release\net8.0\ref\HotelsManager.Engine.dll

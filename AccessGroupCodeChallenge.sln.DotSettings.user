@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3da35dc9_002D3aea_002D4b42_002Dae38_002D6cf82ae34921/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetBookings_ReturnsAllBookingsOfGivenType" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.HotelRepositoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.BookingEngineTests.CheckAvailability_WhenNoBookings_ReturnsAllRooms&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.BookingEngineTests.CheckAvailability_WhenNoBookings_ReturnsAllRooms("2024-11-01","2024-11-03")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.BookingEngineTests.CheckAvailability_WhenNoBookings_ReturnsAllRooms("2024-11-01","2024-11-01")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.BookingEngineTests.CheckAvailability_WhenNoBookings_ReturnsAllRooms("2024-11-02","2024-11-02")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.BookingEngineTests.CheckAvailability_WhenNoBookings_ReturnsAllRooms("2024-11-02","2024-11-12")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.BookingEngineTests.CheckAvailability_WhenBookingsExist_ReturnsCorrectValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.BookingEngineTests.CheckAvailability_WhenBookingsExist_ReturnsCorrectValue("2024-11-01","2024-11-03","2024-11-03","2024-11-05")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.BookingEngineTests.CheckAvailability_WhenMultipleBookingsExist_ReturnsCorrectValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.BookingEngineTests.CheckAvailability_WhenMultipleBookingsExist_ReturnsCorrectValue("2024-11-01","2024-11-03","2024-11-03","2024-11-05",7)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.BookingEngineTests.CheckAvailability_WhenMultipleBookingsExist_ReturnsCorrectValue("2024-11-01","2024-11-02","2024-11-03","2024-11-05",10)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.BookingEngineTests.CheckAvailability_WhenMultipleBookingsExist_ReturnsCorrectValue("2024-11-01","2024-11-06","2024-11-03","2024-11-05",7)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.BookingEngineTests.CheckAvailability_WhenMultipleBookingsExist_ReturnsCorrectValue("2024-11-05","2024-11-08","2024-11-03","2024-11-05",7)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.BookingEngineTests.CheckAvailability_WhenMultipleBookingsExist_ReturnsCorrectValue("2024-11-06","2024-11-08","2024-11-03","2024-11-05",10)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0537374-BD87-4948-9847-9D27077CF8AB::net8.0::HotelsManager.Engine.Tests.BookingEngineTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

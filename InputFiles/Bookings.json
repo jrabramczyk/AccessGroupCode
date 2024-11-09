@@ -1,0 +1,37 @@
+[
+  {
+    "hotelId":"H1",
+    "arrival":"20241102",
+    "departure":"20241103",
+    "roomType":"SGL",
+    "roomRate":"Standard"
+  },
+  {
+    "hotelId":"H1",
+    "arrival":"20241103",
+    "departure":"20241104",
+    "roomType":"SGL",
+    "roomRate":"Standard"
+  },
+  {
+    "hotelId":"H1",
+    "arrival":"20241106",
+    "departure":"20241106",
+    "roomType":"SGL",
+    "roomRate":"Standard"
+  },
+  {
+    "hotelId":"H1",
+    "arrival":"20241104",
+    "departure":"20241104",
+    "roomType":"SGL",
+    "roomRate":"Standard"
+  },
+  {
+    "hotelId":"H1",
+    "arrival":"20241106",
+    "departure":"20241106",
+    "roomType":"SGL",
+    "roomRate":"Standard"
+  }
+]

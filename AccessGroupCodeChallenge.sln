@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelsManager.ConsoleApp", "HotelsManager.ConsoleApp\HotelsManager.ConsoleApp.csproj", "{98AED3E2-1A03-4611-9056-0CB5E07B7F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelsManager.Engine", "HotelsManager.Engine\HotelsManager.Engine.csproj", "{9DCEFF0C-E852-42AE-AFDC-E044CF2D44D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelsManager.Engine.Tests", "HotelsManager.Engine.Tests\HotelsManager.Engine.Tests.csproj", "{B0537374-BD87-4948-9847-9D27077CF8AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98AED3E2-1A03-4611-9056-0CB5E07B7F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AED3E2-1A03-4611-9056-0CB5E07B7F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AED3E2-1A03-4611-9056-0CB5E07B7F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AED3E2-1A03-4611-9056-0CB5E07B7F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCEFF0C-E852-42AE-AFDC-E044CF2D44D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCEFF0C-E852-42AE-AFDC-E044CF2D44D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCEFF0C-E852-42AE-AFDC-E044CF2D44D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCEFF0C-E852-42AE-AFDC-E044CF2D44D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0537374-BD87-4948-9847-9D27077CF8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0537374-BD87-4948-9847-9D27077CF8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0537374-BD87-4948-9847-9D27077CF8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0537374-BD87-4948-9847-9D27077CF8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
